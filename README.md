@@ -1,5 +1,5 @@
 # LOF_OCSVM
-This folder contains python codes that used to compare between Local Outlier Factor algorithm and One Class Support Vector Machine on detecting outliers in a credit card transactions dataset.
+This folder contains python code that is used to compare between Local Outlier Factor algorithm and One Class Support Vector Machine on detecting outliers in a credit card transactions dataset.
 
 The process starts by reading the credit card transactions file and then select 40492 random transactions from the dataset. The whole set contains 284,807 transactions each one has 28 features. All the data is numarical value.
 
